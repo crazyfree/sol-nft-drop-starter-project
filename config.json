@@ -1,0 +1,21 @@
+{
+    "price": 0.1,
+    "number": 3,
+    "gatekeeper": null,
+    "solTreasuryAccount": "J3wRuRtBpFg7agnZpGq9F36qWyc1Bh1Gfv97RwqnpeXx",
+    "splTokenAccount": null,
+    "splToken": null,
+    "goLiveDate": "29 Apr 2022 06:00:00 GMT",
+    "endSettings": null,
+    "whitelistMintSettings": null,
+    "hiddenSettings": null,
+    "storage": "ipfs",
+    "pinataJwt": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySW5mb3JtYXRpb24iOnsiaWQiOiJlYWJlOTZhZi01Y2NhLTRkOTktYmEzOS04MDQyNjJlMTBiM2UiLCJlbWFpbCI6InZ1b25ndmFua2hhbmg4OUBnbWFpbC5jb20iLCJlbWFpbF92ZXJpZmllZCI6dHJ1ZSwicGluX3BvbGljeSI6eyJyZWdpb25zIjpbeyJpZCI6IkZSQTEiLCJkZXNpcmVkUmVwbGljYXRpb25Db3VudCI6MX1dLCJ2ZXJzaW9uIjoxfSwibWZhX2VuYWJsZWQiOmZhbHNlfSwiYXV0aGVudGljYXRpb25UeXBlIjoic2NvcGVkS2V5Iiwic2NvcGVkS2V5S2V5IjoiYWFlZDFkYWI2OGFkYmJlYThkYjIiLCJzY29wZWRLZXlTZWNyZXQiOiI4NjcxYTFjMTEyNzAyOWQzNjJjN2M4NDg5ZDNlOTBiYWMxMjZhZGE1NTdlOTAyYzVmYjA2NDYzYWNmYTU0MWUxIiwiaWF0IjoxNjUxNDYxMjExfQ.OkGqKMkKGLggEpX5OW767oY7w-jqBLQ1Y14FhrPsLXE",
+    "nftStorageKey": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJkaWQ6ZXRocjoweGNBMTFBNDFGYzVDNkI0OTVBMzUxMTI1NEE2OGUxNmU0NUI2MTdkNmEiLCJpc3MiOiJuZnQtc3RvcmFnZSIsImlhdCI6MTY1MTQ2NTg5NzA5MiwibmFtZSI6IlNvbGFuYS1zdG9yYWdlLWRldm5ldCJ9.F0bjbkedkFgk3myvtBnYKWds3lBodeS4R7RHPvoPuf8",
+    "pinataGateway": null,
+    "ipfsInfuraProjectId": "28azqRcXfTFgGPOYLMvUiKwdK3K",
+    "ipfsInfuraSecret": "b31c33fdeffc8615631d802094738ccc",
+    "awsS3Bucket": null,
+    "noRetainAuthority": false,
+    "noMutable": false
+}
